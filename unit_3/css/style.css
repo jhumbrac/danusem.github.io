@@ -1,0 +1,22 @@
+body {
+	color: blue;
+	background-color: #000;
+	font-family: Georgia, sans-serif;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
