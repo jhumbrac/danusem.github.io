@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush|Wendy+One');
+body {
+	color: white;
+	background-color: #000;
+	font-family: Georgia, sans-serif;
+	text-align: center;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+}
+ 
+h1 {color: blue;
+	font-size: 4em;
+	font-family: 'Wendy One', sans-serif;
+}
+
+h3 {color: white;
+	font-size: 2em;
+	text-decoration: underline;
+}
+
+h4 {color: white;
+	font-size: 1.5em;
+	font-family: 'Caveat Brush', cursive;
+	font-style: italic;
+	line-height: 1.5;
+}
